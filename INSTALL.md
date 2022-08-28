@@ -59,6 +59,6 @@ For other Linux distributions use the corresponding package managers, such as YU
 
 ## Mac OS
 
-You can install Python by downloading official installer from [this link]((https://www.python.org/downloads/mac-osx) . Download the latest version of Python under the heading Python Releases for Mac OS X. Double click on the installer file to start the installation wizard.
+You can install Python by downloading official installer from https://www.python.org/downloads/mac-osx page. Download the latest version of Python under the heading Python Releases for Mac OS X. Double click on the installer file to start the installation wizard.
 
 On the installation wizard, click on Continue a few times until you're asked to agree to the software license agreement, click on Agree and finish the installation.
