@@ -1,1 +1,1 @@
-As the name suggests, this file contains list of language / runtime specific requirement for the given application
+pytest==7.1.3

@@ -62,3 +62,14 @@ For other Linux distributions use the corresponding package managers, such as YU
 You can install Python by downloading official installer from https://www.python.org/downloads/mac-osx page. Download the latest version of Python under the heading Python Releases for Mac OS X. Double click on the installer file to start the installation wizard.
 
 On the installation wizard, click on Continue a few times until you're asked to agree to the software license agreement, click on Agree and finish the installation.
+
+Install git and clone this repository to your computer
+```
+git clone https://github.com/madiha2001/SoftwareEngineering.git
+```
+You can now open a code editor on your local version of this repo.
+Install Python3 if you don't have it on your system.
+
+The required packages of this project are enumerated in the requirements.txt file. Run the following command to install them. You will need to install Pip if it's not in your system.
+```
+pip install -r requirements.txt
