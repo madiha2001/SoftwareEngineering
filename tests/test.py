@@ -1,6 +1,6 @@
 import pytest
 
-from code import add
+from code.add import add
 
 
 def inc(x):
