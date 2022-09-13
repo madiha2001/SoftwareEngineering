@@ -1,5 +1,7 @@
-from code.add import add
+# from code.add import add
 
+def add(a, b):
+    return a + b
 
 def inc(x):
     return x + 1
